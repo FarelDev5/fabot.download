@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "ROBOTO", sans-serif;
+  font-family: "arial", sans-serif;
 }
 
 .nav,
@@ -144,7 +144,7 @@ a {
 
   .nav h2,
   .slider h2 {
-    font-size: 2vw;
+    font-size: 2rem;
     letter-spacing: 0.2vw;
   }
 
